@@ -1,0 +1,29 @@
+dia,dia_num,producto,categoria,precio_und,unidades,total
+Lunes,1,Pastel de pollo,Comidas,3500,25,87500
+Lunes,1,Jugo natural,Bebidas,3500,11,38500
+Lunes,1,Agua 600ml,Bebidas,2000,19,38000
+Lunes,1,Yogurt con granola,Comidas,5500,26,143000
+Lunes,1,Café negro,Bebidas,2500,9,22500
+Lunes,1,Café con leche,Bebidas,3000,24,72000
+Lunes,1,Sándwich,Comidas,6000,14,84000
+Martes,2,Café negro,Bebidas,2500,25,62500
+Martes,2,Café con leche,Bebidas,3000,21,63000
+Martes,2,Agua 600ml,Bebidas,2000,9,18000
+Martes,2,Sándwich,Comidas,6000,34,204000
+Martes,2,Café con leche,Bebidas,3000,26,78000
+Martes,2,Agua 600ml,Bebidas,2000,11,22000
+Martes,2,Café negro,Bebidas,2500,15,37500
+Miércoles,3,Café negro,Bebidas,2500,21,52500
+Miércoles,3,Sándwich,Comidas,6000,12,72000
+Miércoles,3,Yogurt con granola,Comidas,5500,25,137500
+Miércoles,3,Café con leche,Bebidas,3000,11,33000
+Miércoles,3,Café negro,Bebidas,2500,26,65000
+Miércoles,3,Jugo natural,Bebidas,3500,17,59500
+Miércoles,3,Brownie,Comidas,3000,25,75000
+Jueves,4,Jugo natural,Bebidas,3500,25,87500
+Jueves,4,Café con leche,Bebidas,3000,30,90000
+Jueves,4,Empanada,Comidas,2500,10,25000
+Jueves,4,Sándwich,Comidas,6000,26,156000
+Jueves,4,Agua 600ml,Bebidas,2000,9,18000
+Jueves,4,Pastel de pollo,Comidas,3500,27,94500
+Jueves,4,Café negro,Bebidas,2500,14,35000

@@ -1,0 +1,121 @@
+cedula,nombre_completo,area,cargo,ciudad,tipo_contrato,fecha_ingreso,salario_basico,auxilio_transporte,total_devengado,estado
+84377153,Kelly Mireya Velandia Acosta,Recursos Humanos,Analista RRHH,Pereira,Indefinido,2024-11-13,3150000,0,3150000,Activo
+48414230,Lucía Gloria Jiménez,Ventas,Jefe de Ventas,Barranquilla,Indefinido,2024-03-21,4550000,0,4550000,Inactivo
+49966263,Paola Peña Ramírez,Logística,Auxiliar Bodega,Medellín,Prestación de servicios,2021-06-10,1250000,162000,1412000,Activo
+84802452,Clara Lucía Ordóñez Gaitán,Tecnología,Desarrollador,Barranquilla,Indefinido,2019-05-16,5000000,0,5000000,Activo
+39531289,Enrique Carlos Contreras,Contabilidad,Auxiliar Contable,Barranquilla,Fijo,2024-08-18,1450000,162000,1612000,Inactivo
+33447178,Cristian Acevedo Rojas,Mercadeo,Director Mercadeo,Medellín,Prestación de servicios,2019-04-03,6550000,0,6550000,Activo
+65402616,Daniela Libia Zapata López,Contabilidad,Contador,Barranquilla,Fijo,2022-04-01,3100000,0,3100000,Activo
+47247613,César Quintero Rojas,Contabilidad,Contador,Pereira,Fijo,2024-01-16,3100000,0,3100000,Activo
+96676696,Gabriel Pérez Franco,Logística,Auxiliar Bodega,Barranquilla,Fijo,2019-07-13,1200000,162000,1362000,Inactivo
+75743113,Piedad Torres,Ventas,Asesor Comercial,Cali,Indefinido,2023-08-19,1650000,162000,1812000,Activo
+30720316,Antonio Muñoz Suárez,Logística,Coordinador,Bogotá,Prestación de servicios,2019-02-08,3450000,0,3450000,Inactivo
+26864695,Gladys Elcy Prieto,Ventas,Jefe de Ventas,Bogotá,Prestación de servicios,2024-01-01,4150000,0,4150000,Inactivo
+95401545,Maritza Luz Barreto Pérez,Tecnología,Desarrollador,Barranquilla,Prestación de servicios,2023-05-17,5700000,0,5700000,Activo
+45014973,Jhon Hernando Palacios Zapata,Ventas,Asesor Comercial,Bogotá,Prestación de servicios,2022-04-13,1750000,162000,1912000,Activo
+42528686,Bernardo Cantillo,Logística,Coordinador,Barranquilla,Prestación de servicios,2020-06-21,3450000,0,3450000,Activo
+17423410,Ana Flórez Sánchez,Contabilidad,Auxiliar Contable,Cali,Indefinido,2023-11-10,1700000,162000,1862000,Activo
+59689823,Armando Sánchez Vélez,Tecnología,Desarrollador,Bogotá,Fijo,2019-11-14,4600000,0,4600000,Activo
+49206502,Irma González,Recursos Humanos,Analista RRHH,Pereira,Indefinido,2021-04-01,2750000,0,2750000,Activo
+39721551,María María Londoño,Contabilidad,Contador,Medellín,Fijo,2019-04-15,3500000,0,3500000,Activo
+99294283,Damaris Jaimes,Logística,Coordinador,Cali,Prestación de servicios,2019-08-14,3150000,0,3150000,Activo
+16957919,Tomás César Torres,Mercadeo,Analista Mercadeo,Cali,Indefinido,2022-03-14,2400000,162000,2562000,Activo
+35593109,Martha Angulo,Tecnología,Desarrollador,Bogotá,Prestación de servicios,2018-03-11,5400000,0,5400000,Inactivo
+60181809,David Ruiz,Tecnología,Desarrollador,Medellín,Fijo,2023-12-13,4550000,0,4550000,Activo
+85313447,Anderson Cáceres,Ventas,Asesor Comercial,Bogotá,Fijo,2020-07-04,1750000,162000,1912000,Activo
+60024878,César Castro Gaviria,Recursos Humanos,Analista RRHH,Pereira,Fijo,2023-08-07,2600000,162000,2762000,Activo
+93940881,María Lizeth García Ortiz,Recursos Humanos,Analista RRHH,Barranquilla,Indefinido,2021-04-26,2550000,162000,2712000,Activo
+18435817,Alexander Pedro Jiménez Perdomo,Mercadeo,Analista Mercadeo,Pereira,Fijo,2018-05-07,2750000,0,2750000,Activo
+46994476,Diego Nelson Rodríguez,Recursos Humanos,Asistente RRHH,Medellín,Indefinido,2023-12-11,1450000,162000,1612000,Activo
+72511088,Saúl Paul González,Logística,Auxiliar Bodega,Barranquilla,Fijo,2019-02-16,1200000,162000,1362000,Inactivo
+50710220,Yamile María Parra Lozano,Mercadeo,Analista Mercadeo,Bogotá,Prestación de servicios,2019-01-26,2850000,0,2850000,Activo
+78704012,Diana Vargas Muñoz,Recursos Humanos,Analista RRHH,Bogotá,Fijo,2024-10-03,2750000,0,2750000,Activo
+83097205,Amparo López Acosta,Contabilidad,Contador,Medellín,Indefinido,2018-08-18,2950000,0,2950000,Inactivo
+66513753,Juan Stiven Rodríguez,Ventas,Asesor Comercial,Barranquilla,Prestación de servicios,2018-04-04,1750000,162000,1912000,Inactivo
+41532215,Ingrid Guerrero Montenegro,Contabilidad,Auxiliar Contable,Pereira,Prestación de servicios,2021-10-22,1400000,162000,1562000,Activo
+44941579,María Muñoz,Recursos Humanos,Analista RRHH,Bogotá,Fijo,2020-06-09,2700000,0,2700000,Activo
+18697858,Rocío Mercedes Díaz Rodríguez,Contabilidad,Auxiliar Contable,Barranquilla,Fijo,2022-04-11,1400000,162000,1562000,Inactivo
+14969162,Luz Hernández,Logística,Auxiliar Bodega,Cali,Indefinido,2018-11-15,1400000,162000,1562000,Activo
+26000985,Marisol Andrea Ordóñez,Contabilidad,Contador,Cali,Indefinido,2018-05-08,3600000,0,3600000,Activo
+33858409,Rodrigo Uribe,Logística,Auxiliar Bodega,Barranquilla,Prestación de servicios,2020-09-28,1450000,162000,1612000,Activo
+56935889,Carlos Cardona Álvarez,Tecnología,Soporte TI,Bogotá,Indefinido,2022-12-20,1850000,162000,2012000,Activo
+97462018,Astrid Elizabeth García,Contabilidad,Auxiliar Contable,Bogotá,Indefinido,2020-01-20,1450000,162000,1612000,Activo
+14223373,Jorge Álvarez,Mercadeo,Director Mercadeo,Barranquilla,Prestación de servicios,2020-02-07,6600000,0,6600000,Activo
+95789548,Miryam Emma Rojas,Mercadeo,Analista Mercadeo,Pereira,Indefinido,2023-09-05,2750000,0,2750000,Activo
+66082257,Carmen Carmen Muñoz Corredor,Mercadeo,Director Mercadeo,Cali,Fijo,2020-11-10,7000000,0,7000000,Activo
+36467949,Gloria Astrid Sánchez,Recursos Humanos,Analista RRHH,Barranquilla,Prestación de servicios,2024-06-21,2800000,0,2800000,Activo
+22145096,Amparo Muñoz,Ventas,Jefe de Ventas,Barranquilla,Prestación de servicios,2021-02-27,5050000,0,5050000,Activo
+95988827,Freddy Hernán Martínez Acevedo,Mercadeo,Analista Mercadeo,Barranquilla,Indefinido,2018-09-05,2350000,162000,2512000,Activo
+33056632,Patricia Rincón Castañeda,Recursos Humanos,Asistente RRHH,Cali,Indefinido,2020-03-17,1400000,162000,1562000,Activo
+17163810,Juan Sierra,Contabilidad,Contador,Pereira,Prestación de servicios,2018-08-11,3000000,0,3000000,Activo
+64288997,Tatiana Isabel Ávila,Tecnología,Soporte TI,Pereira,Indefinido,2024-04-20,2100000,162000,2262000,Activo
+58212037,Claudia Mayra Parra,Contabilidad,Auxiliar Contable,Cali,Indefinido,2022-03-13,1350000,162000,1512000,Activo
+99643540,Armando Cano Pérez,Tecnología,Soporte TI,Medellín,Indefinido,2022-11-02,1800000,162000,1962000,Activo
+67141834,Orlando David Carvajal González,Mercadeo,Director Mercadeo,Barranquilla,Prestación de servicios,2020-10-08,7450000,0,7450000,Activo
+72447903,Néstor Rodolfo Palacio,Logística,Coordinador,Bogotá,Fijo,2018-10-16,2850000,0,2850000,Activo
+27241056,Óscar Álvarez Díaz,Mercadeo,Analista Mercadeo,Medellín,Fijo,2021-02-03,2750000,0,2750000,Activo
+52107570,Diana Fabiola García,Mercadeo,Analista Mercadeo,Pereira,Indefinido,2019-02-24,2300000,162000,2462000,Activo
+18909462,Fabián Torres Ospina,Logística,Coordinador,Pereira,Prestación de servicios,2024-03-01,3200000,0,3200000,Activo
+32160892,Gerardo Jaime Aguirre,Ventas,Asesor Comercial,Bogotá,Indefinido,2021-05-26,1700000,162000,1862000,Activo
+71257352,Evelio Alexander Valencia,Logística,Coordinador,Bogotá,Fijo,2022-05-27,2800000,0,2800000,Activo
+52825859,Manuel Alonso Delgado Londoño,Mercadeo,Analista Mercadeo,Medellín,Indefinido,2022-09-08,2600000,162000,2762000,Activo
+60578720,Gladys Álvarez Ramírez,Mercadeo,Analista Mercadeo,Bogotá,Fijo,2020-11-11,2650000,0,2650000,Activo
+79988171,Juan Rodríguez,Logística,Auxiliar Bodega,Pereira,Prestación de servicios,2020-08-18,1400000,162000,1562000,Activo
+59857352,Juan Andrés Mejía Muñoz,Ventas,Jefe de Ventas,Medellín,Fijo,2023-07-24,5150000,0,5150000,Inactivo
+40876426,Fabián Ortiz Suárez,Logística,Auxiliar Bodega,Bogotá,Prestación de servicios,2024-02-15,1300000,162000,1462000,Activo
+88634183,Elizabeth Judith Torres Sánchez,Ventas,Jefe de Ventas,Medellín,Prestación de servicios,2020-05-21,4950000,0,4950000,Activo
+66060995,Luis Johan Cuéllar,Ventas,Asesor Comercial,Pereira,Fijo,2022-11-14,1700000,162000,1862000,Activo
+17300509,Ana Laura Ramos,Contabilidad,Contador,Cali,Prestación de servicios,2023-01-01,3050000,0,3050000,Activo
+89066537,Jesús Burbano Gil,Ventas,Jefe de Ventas,Bogotá,Indefinido,2021-10-10,4650000,0,4650000,Activo
+30040462,Milena García Ariza,Mercadeo,Analista Mercadeo,Barranquilla,Indefinido,2024-04-23,2350000,162000,2512000,Activo
+96563369,Jesús Gómez Rodríguez,Contabilidad,Contador,Pereira,Fijo,2020-01-02,3200000,0,3200000,Activo
+43352705,Yurany Katherin Valencia Palacios,Logística,Coordinador,Bogotá,Indefinido,2022-12-16,3150000,0,3150000,Activo
+24081833,Ricardo Bladimir Jiménez,Logística,Auxiliar Bodega,Cali,Prestación de servicios,2019-03-02,1300000,162000,1462000,Activo
+78041437,Armando Herrera,Contabilidad,Auxiliar Contable,Barranquilla,Prestación de servicios,2022-10-21,1500000,162000,1662000,Activo
+74146043,Pedro César Gil Daza,Recursos Humanos,Asistente RRHH,Pereira,Indefinido,2018-12-26,1450000,162000,1612000,Activo
+40326282,Arturo Óscar Blanco,Mercadeo,Director Mercadeo,Cali,Fijo,2023-08-06,6450000,0,6450000,Activo
+45339330,Samuel Londoño Montoya,Ventas,Asesor Comercial,Cali,Fijo,2023-12-28,1750000,162000,1912000,Activo
+96168208,Isabel García,Tecnología,Desarrollador,Bogotá,Indefinido,2022-05-10,5350000,0,5350000,Activo
+31365625,Jonathan Efrain Cárdenas Córdoba,Ventas,Asesor Comercial,Medellín,Indefinido,2019-12-07,1750000,162000,1912000,Activo
+99286495,Eduardo Muñoz Henao,Recursos Humanos,Asistente RRHH,Pereira,Fijo,2024-11-23,1500000,162000,1662000,Activo
+86549802,Omar Alejandro Parra Quintero,Logística,Auxiliar Bodega,Medellín,Indefinido,2021-12-08,1450000,162000,1612000,Activo
+13610799,Dario Daza,Logística,Auxiliar Bodega,Cali,Indefinido,2019-03-02,1350000,162000,1512000,Activo
+15590093,Luz Gloria Cabrera,Contabilidad,Contador,Bogotá,Prestación de servicios,2023-01-01,3650000,0,3650000,Activo
+58775543,Isabel Jhoana Sánchez,Ventas,Asesor Comercial,Bogotá,Prestación de servicios,2018-10-25,1950000,162000,2112000,Activo
+14544696,Diana Leidy Ávila González,Ventas,Jefe de Ventas,Cali,Prestación de servicios,2019-04-04,4150000,0,4150000,Activo
+96747628,Alberto Víctor Flórez,Tecnología,Desarrollador,Bogotá,Fijo,2019-02-26,5100000,0,5100000,Activo
+59395387,Julio Villegas Toro,Mercadeo,Director Mercadeo,Medellín,Prestación de servicios,2020-05-02,6350000,0,6350000,Activo
+23193537,Alejandro Alexander García,Recursos Humanos,Asistente RRHH,Medellín,Fijo,2018-07-17,1650000,162000,1812000,Activo
+48535209,Camilo Juan Saavedra Trujillo,Logística,Auxiliar Bodega,Bogotá,Fijo,2024-02-19,1400000,162000,1562000,Activo
+75877147,María Durán,Contabilidad,Contador,Cali,Fijo,2018-01-12,3500000,0,3500000,Activo
+87578838,Diana Solano,Contabilidad,Contador,Bogotá,Fijo,2024-09-09,3350000,0,3350000,Activo
+20855878,José Jaramillo López,Tecnología,Soporte TI,Barranquilla,Prestación de servicios,2018-11-25,2050000,162000,2212000,Activo
+21565931,Patricia Rodríguez,Ventas,Jefe de Ventas,Barranquilla,Prestación de servicios,2021-07-24,4450000,0,4450000,Activo
+60909474,Ferney José Velásquez Rodríguez,Contabilidad,Contador,Bogotá,Fijo,2022-09-06,3100000,0,3100000,Activo
+70439125,Ángel Fernando Gutiérrez,Logística,Auxiliar Bodega,Pereira,Prestación de servicios,2020-09-05,1300000,162000,1462000,Activo
+26919090,Andrés Páez,Mercadeo,Director Mercadeo,Medellín,Fijo,2020-10-08,7500000,0,7500000,Activo
+92856959,Isabel Lorena Barrios,Tecnología,Soporte TI,Bogotá,Prestación de servicios,2020-05-25,2050000,162000,2212000,Activo
+54033490,Fernando Morales Guzmán,Contabilidad,Contador,Bogotá,Fijo,2020-03-08,3350000,0,3350000,Inactivo
+61570866,Alfonso David Prieto,Tecnología,Soporte TI,Bogotá,Indefinido,2023-02-07,1900000,162000,2062000,Activo
+24343810,Ana Rocío Patiño,Tecnología,Desarrollador,Medellín,Indefinido,2019-02-21,5050000,0,5050000,Activo
+39857025,Juan Eliecer Rodríguez Muñoz,Mercadeo,Analista Mercadeo,Pereira,Prestación de servicios,2024-07-23,2250000,162000,2412000,Activo
+42518840,Inés Domínguez,Ventas,Asesor Comercial,Barranquilla,Prestación de servicios,2023-07-01,1750000,162000,1912000,Activo
+96126488,Andrés Luis Osorio Moreno,Tecnología,Desarrollador,Pereira,Indefinido,2023-12-21,5550000,0,5550000,Activo
+23135460,Cecilia Marcela Quintero Guerrero,Tecnología,Soporte TI,Barranquilla,Indefinido,2020-05-21,2050000,162000,2212000,Activo
+12638359,María María Triana García,Tecnología,Soporte TI,Pereira,Fijo,2021-08-15,1950000,162000,2112000,Activo
+75745233,Manuel Elkin Uribe Silva,Tecnología,Soporte TI,Cali,Indefinido,2020-01-13,2250000,162000,2412000,Activo
+23567666,Osvaldo Carlos Ramírez,Contabilidad,Auxiliar Contable,Pereira,Fijo,2019-09-12,1600000,162000,1762000,Activo
+56016792,Manuel Cristian Mejía,Tecnología,Desarrollador,Barranquilla,Prestación de servicios,2023-06-17,5150000,0,5150000,Inactivo
+92409992,Gloria Restrepo,Contabilidad,Auxiliar Contable,Medellín,Prestación de servicios,2024-02-24,1500000,162000,1662000,Activo
+66444871,Alfonso Quiroz,Recursos Humanos,Analista RRHH,Medellín,Prestación de servicios,2018-02-14,2800000,0,2800000,Activo
+62608350,Lady Escobar González,Contabilidad,Contador,Barranquilla,Indefinido,2022-04-26,3450000,0,3450000,Activo
+29631149,Milena Andrea López,Ventas,Asesor Comercial,Medellín,Prestación de servicios,2022-12-08,1850000,162000,2012000,Activo
+26799506,Jhonatan Diego Trujillo Cuesta,Mercadeo,Director Mercadeo,Barranquilla,Fijo,2024-09-21,8050000,0,8050000,Activo
+34949696,Nubia Martínez Rivera,Contabilidad,Contador,Barranquilla,Indefinido,2023-05-14,3450000,0,3450000,Activo
+75084754,Antonio Pérez Sánchez,Recursos Humanos,Analista RRHH,Barranquilla,Prestación de servicios,2020-06-16,2700000,0,2700000,Activo
+21446078,Lilia María Castillo,Tecnología,Desarrollador,Pereira,Fijo,2020-07-02,4700000,0,4700000,Activo
+38152097,Patricia Buitrago,Contabilidad,Contador,Cali,Prestación de servicios,2018-11-01,3400000,0,3400000,Activo
+70661014,Elisa Beatriz Espinosa,Logística,Auxiliar Bodega,Medellín,Indefinido,2024-04-06,1350000,162000,1512000,Activo
+22134061,Eliana Gómez Camacho,Mercadeo,Analista Mercadeo,Pereira,Prestación de servicios,2023-10-26,2650000,0,2650000,Activo
+68866038,Carolina Luz Díaz,Contabilidad,Contador,Cali,Prestación de servicios,2022-02-24,3450000,0,3450000,Activo
+17845626,Carlos Sánchez,Mercadeo,Analista Mercadeo,Barranquilla,Fijo,2021-08-18,2750000,0,2750000,Inactivo
