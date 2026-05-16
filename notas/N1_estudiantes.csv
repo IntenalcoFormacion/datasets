@@ -1,0 +1,68 @@
+cedula,nombre_completo,programa,sigla_programa,grupo,semestre,ciudad_origen,estado,docente_materia
+1078049672,David Ávila Suárez,Técnico en Contabilidad y Finanzas,COF,A,3,Palmira,Activo,Martha Lucía Giraldo
+1175022528,Ana Jenny Gómez Muñoz,Técnico en Contabilidad y Finanzas,COF,A,1,Palmira,Activo,Martha Lucía Giraldo
+1172055628,Mercedes Jenny Sierra Castaño,Técnico en Contabilidad y Finanzas,COF,A,1,Cali,Activo,Martha Lucía Giraldo
+1142623717,Gloria Yaneth Romero Bohórquez,Técnico en Contabilidad y Finanzas,COF,A,3,Buenaventura,Activo,Martha Lucía Giraldo
+1008046078,Antonio Kevin Ortiz,Técnico en Contabilidad y Finanzas,COF,A,3,Cartago,Activo,Martha Lucía Giraldo
+1003874164,Carlos Enrique Gutiérrez,Técnico en Contabilidad y Finanzas,COF,A,1,Cali,Retirado,Martha Lucía Giraldo
+1070450977,Ruby Chacón,Técnico en Contabilidad y Finanzas,COF,A,3,Tuluá,Activo,Martha Lucía Giraldo
+1037448664,María Paola Díaz Vergara,Técnico en Contabilidad y Finanzas,COF,A,2,Buenaventura,Activo,Martha Lucía Giraldo
+1062821371,Luis Muñoz Cárdenas,Técnico en Contabilidad y Finanzas,COF,A,3,Cartago,Activo,Martha Lucía Giraldo
+1115313871,Victoria Xiomara Ospina,Técnico en Contabilidad y Finanzas,COF,A,2,Jamundí,Activo,Martha Lucía Giraldo
+1084224675,Patricia Castro,Técnico en Contabilidad y Finanzas,COF,A,2,Cartago,Activo,Martha Lucía Giraldo
+1170130296,Alejandro Duarte,Técnico en Contabilidad y Finanzas,COF,A,3,Tuluá,Retirado,Martha Lucía Giraldo
+1148774004,Milena Astrid Rengifo Durán,Técnico en Contabilidad y Finanzas,COF,A,1,Tuluá,Activo,Martha Lucía Giraldo
+1181682904,William Edgar Vega Palacios,Técnico en Contabilidad y Finanzas,COF,A,3,Palmira,Activo,Martha Lucía Giraldo
+1078734158,Manuel Juan Osorio Ortiz,Técnico en Contabilidad y Finanzas,COF,A,3,Buenaventura,Activo,Martha Lucía Giraldo
+1067997857,Alejandra Fernanda Jaramillo Hernández,Técnico en Contabilidad y Finanzas,COF,A,2,Cartago,Activo,Martha Lucía Giraldo
+1075198615,César Iván Gómez,Técnico en Contabilidad y Finanzas,COF,A,1,Cartago,Activo,Martha Lucía Giraldo
+1147646609,Marina Rosa Londoño,Tecnología en Gestión Empresarial,TGE,A,1,Palmira,Activo,Ricardo Andrade
+1188319925,Jaime Sepúlveda,Tecnología en Gestión Empresarial,TGE,A,1,Tuluá,Activo,Ricardo Andrade
+1174813697,Laura Angie López Parada,Tecnología en Gestión Empresarial,TGE,A,2,Tuluá,Activo,Ricardo Andrade
+1000585462,Andrea Díaz,Tecnología en Gestión Empresarial,TGE,A,1,Palmira,Activo,Ricardo Andrade
+1038049534,Cristian Villegas Cerón,Tecnología en Gestión Empresarial,TGE,A,3,Tuluá,Activo,Ricardo Andrade
+1171545158,José García Castaño,Tecnología en Gestión Empresarial,TGE,A,3,Tuluá,Activo,Ricardo Andrade
+1197637041,Arturo Ospina Correa,Tecnología en Gestión Empresarial,TGE,A,2,Palmira,Activo,Ricardo Andrade
+1189352563,Eduardo Romero Guerrero,Tecnología en Gestión Empresarial,TGE,A,2,Cartago,Activo,Ricardo Andrade
+1192336980,María Nubia Reyes Serna,Tecnología en Gestión Empresarial,TGE,A,3,Cartago,Activo,Ricardo Andrade
+1063796148,Marcela Cardona Bravo,Tecnología en Gestión Empresarial,TGE,A,1,Cartago,Activo,Ricardo Andrade
+1011425484,Marta Fernández Peña,Tecnología en Gestión Empresarial,TGE,A,3,Cali,Activo,Ricardo Andrade
+1096462587,Claudia Cristina Montoya Vargas,Tecnología en Gestión Empresarial,TGE,A,3,Buenaventura,Activo,Ricardo Andrade
+1048895795,Francisco Guzmán,Tecnología en Gestión Empresarial,TGE,A,1,Jamundí,Activo,Ricardo Andrade
+1149060279,María Carolina Gómez,Tecnología en Gestión Empresarial,TGE,A,1,Palmira,Activo,Ricardo Andrade
+1018560681,Óscar David Hurtado Castro,Tecnología en Gestión Empresarial,TGE,A,3,Cartago,Activo,Ricardo Andrade
+1145845168,Andrés Ignacio Ramos Palacio,Tecnología en Gestión Empresarial,TGE,A,2,Buenaventura,Activo,Ricardo Andrade
+1173165555,Fernando Sánchez,Tecnología en Gestión Empresarial,TGE,A,1,Palmira,Activo,Ricardo Andrade
+1083372470,Abraham Acosta,Tecnología en Gestión Empresarial,TGE,A,2,Buenaventura,Activo,Ricardo Andrade
+1126135275,Andrés Alfonso,Técnico en Mercadeo,MER,A,1,Cali,Activo,Paola Murillo
+1085814637,Carlos Alejandro Perdomo,Técnico en Mercadeo,MER,A,2,Cartago,Activo,Paola Murillo
+1143013499,Danny Gómez García,Técnico en Mercadeo,MER,A,2,Palmira,Activo,Paola Murillo
+1179718076,Carmen Milena Ramírez Contreras,Técnico en Mercadeo,MER,A,1,Tuluá,Activo,Paola Murillo
+1134587281,Joel Cantillo Sánchez,Técnico en Mercadeo,MER,A,1,Jamundí,Activo,Paola Murillo
+1039290100,Daniel Gonzáles,Técnico en Mercadeo,MER,A,3,Palmira,Activo,Paola Murillo
+1069403319,Vanesa Lucía Alzate,Técnico en Mercadeo,MER,A,1,Buenaventura,Activo,Paola Murillo
+1065567554,Esperanza Bermúdez Ospina,Técnico en Mercadeo,MER,A,2,Palmira,Activo,Paola Murillo
+1171987735,Diego Mauricio Gil Orozco,Técnico en Mercadeo,MER,A,1,Buenaventura,Activo,Paola Murillo
+1106739211,Fredy Delgado,Técnico en Mercadeo,MER,A,1,Cali,Activo,Paola Murillo
+1161010002,Rocío Garzón,Técnico en Mercadeo,MER,A,3,Buenaventura,Retirado,Paola Murillo
+1051117849,Beatriz Camila Ramírez Pineda,Técnico en Mercadeo,MER,A,3,Tuluá,Activo,Paola Murillo
+1089353101,Enrique Navarro Galindo,Técnico en Mercadeo,MER,A,3,Tuluá,Activo,Paola Murillo
+1036772559,José Luis Salazar,Técnico en Mercadeo,MER,A,1,Cali,Activo,Paola Murillo
+1098934041,Edilma Ramírez,Técnico en Mercadeo,MER,A,1,Buenaventura,Activo,Paola Murillo
+1161929819,Elvia Andrea Morales González,Tecnología en Comercio Exterior,CEX,A,1,Buenaventura,Activo,Hernando Salcedo
+1034433230,Esther Muñoz,Tecnología en Comercio Exterior,CEX,A,2,Tuluá,Activo,Hernando Salcedo
+1157098332,Jesús Martín Mosquera Caro,Tecnología en Comercio Exterior,CEX,A,2,Cali,Activo,Hernando Salcedo
+1094232115,José Fabio Cardona,Tecnología en Comercio Exterior,CEX,A,1,Cali,Activo,Hernando Salcedo
+1086627883,María Rincón,Tecnología en Comercio Exterior,CEX,A,3,Jamundí,Activo,Hernando Salcedo
+1033725111,Nubia López,Tecnología en Comercio Exterior,CEX,A,1,Jamundí,Retirado,Hernando Salcedo
+1040198057,Héctor Salas Montoya,Tecnología en Comercio Exterior,CEX,A,2,Cali,Activo,Hernando Salcedo
+1092602922,Nelson Miguel Rodríguez,Tecnología en Comercio Exterior,CEX,A,1,Cali,Activo,Hernando Salcedo
+1192837225,Carolina Dina Moreno Quintero,Tecnología en Comercio Exterior,CEX,A,1,Cartago,Activo,Hernando Salcedo
+1118254755,Alberto Rodríguez Cardona,Tecnología en Comercio Exterior,CEX,A,2,Cartago,Activo,Hernando Salcedo
+1014555699,Edilberto Ospina Hernández,Tecnología en Comercio Exterior,CEX,A,1,Cali,Activo,Hernando Salcedo
+1164637083,Lilia Emma Restrepo Erazo,Tecnología en Comercio Exterior,CEX,A,3,Buenaventura,Activo,Hernando Salcedo
+1143236051,Armando Díaz,Tecnología en Comercio Exterior,CEX,A,1,Cartago,Activo,Hernando Salcedo
+1079954028,Lucía Díaz,Tecnología en Comercio Exterior,CEX,A,2,Cali,Activo,Hernando Salcedo
+1008162011,Milena Miryam Muñoz,Tecnología en Comercio Exterior,CEX,A,1,Cali,Activo,Hernando Salcedo
+1140691218,Marina María Jaramillo,Tecnología en Comercio Exterior,CEX,A,1,Buenaventura,Activo,Hernando Salcedo
+1168413006,Magnolia Erazo Moreno,Tecnología en Comercio Exterior,CEX,A,3,Jamundí,Activo,Hernando Salcedo

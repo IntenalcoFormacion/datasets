@@ -1,0 +1,127 @@
+cedula,materia,grupo,programa,promedio_actual,peso_evaluado,evaluaciones,promedio,estado_academico,nombre_completo
+1000585462,Fundamentos de Finanzas,A,TGE,5.455,150,6,3.64,Aprobando,Andrea Díaz
+1000585462,Gestión Administrativa,A,TGE,5.36,150,6,3.57,Aprobando,Andrea Díaz
+1008046078,Contabilidad Básica,A,COF,6.1,150,6,4.07,Sobresaliente,Antonio Kevin Ortiz
+1008046078,Costos y Presupuestos,A,COF,6.325,150,6,4.22,Sobresaliente,Antonio Kevin Ortiz
+1008162011,Comercio Internacional,A,CEX,4.585,115,5,3.99,Aprobando,Milena Miryam Muñoz
+1008162011,Logística y Distribución,A,CEX,3.3949999999999996,95,4,3.57,Aprobando,Milena Miryam Muñoz
+1011425484,Fundamentos de Finanzas,A,TGE,3.335,135,5,2.47,En riesgo,Marta Fernández Peña
+1011425484,Gestión Administrativa,A,TGE,4.235,150,6,2.82,En riesgo,Marta Fernández Peña
+1014555699,Comercio Internacional,A,CEX,5.17,150,6,3.45,Aprobando,Edilberto Ospina Hernández
+1014555699,Logística y Distribución,A,CEX,4.215,115,5,3.67,Aprobando,Edilberto Ospina Hernández
+1018560681,Fundamentos de Finanzas,A,TGE,5.035,120,5,4.2,Sobresaliente,Óscar David Hurtado Castro
+1018560681,Gestión Administrativa,A,TGE,6.4399999999999995,150,6,4.29,Sobresaliente,Óscar David Hurtado Castro
+1034433230,Comercio Internacional,A,CEX,5.14,150,6,3.43,Aprobando,Esther Muñoz
+1034433230,Logística y Distribución,A,CEX,4.6850000000000005,135,5,3.47,Aprobando,Esther Muñoz
+1036772559,Comportamiento del Consumidor,A,MER,6.37,150,6,4.25,Sobresaliente,José Luis Salazar
+1036772559,Fundamentos de Mercadeo,A,MER,5.935,130,5,4.57,Sobresaliente,José Luis Salazar
+1037448664,Contabilidad Básica,A,COF,3.295,105,4,3.14,Aprobando,María Paola Díaz Vergara
+1037448664,Costos y Presupuestos,A,COF,3.68,115,5,3.2,Aprobando,María Paola Díaz Vergara
+1038049534,Fundamentos de Finanzas,A,TGE,3.045,115,5,2.65,En riesgo,Cristian Villegas Cerón
+1038049534,Gestión Administrativa,A,TGE,4.455,150,6,2.97,En riesgo,Cristian Villegas Cerón
+1039290100,Comportamiento del Consumidor,A,MER,5.995,150,6,4.0,Sobresaliente,Daniel Gonzáles
+1039290100,Fundamentos de Mercadeo,A,MER,4.88,120,5,4.07,Sobresaliente,Daniel Gonzáles
+1040198057,Comercio Internacional,A,CEX,4.525,120,5,3.77,Aprobando,Héctor Salas Montoya
+1040198057,Logística y Distribución,A,CEX,4.955,130,5,3.81,Aprobando,Héctor Salas Montoya
+1048895795,Fundamentos de Finanzas,A,TGE,3.165,150,6,2.11,En riesgo,Francisco Guzmán
+1048895795,Gestión Administrativa,A,TGE,2.47,115,5,2.15,En riesgo,Francisco Guzmán
+1051117849,Comportamiento del Consumidor,A,MER,3.96,150,6,2.64,En riesgo,Beatriz Camila Ramírez Pineda
+1051117849,Fundamentos de Mercadeo,A,MER,4.03,150,6,2.69,En riesgo,Beatriz Camila Ramírez Pineda
+1062821371,Contabilidad Básica,A,COF,4.6899999999999995,115,5,4.08,Sobresaliente,Luis Muñoz Cárdenas
+1062821371,Costos y Presupuestos,A,COF,6.64,150,6,4.43,Sobresaliente,Luis Muñoz Cárdenas
+1063796148,Fundamentos de Finanzas,A,TGE,5.46,150,6,3.64,Aprobando,Marcela Cardona Bravo
+1063796148,Gestión Administrativa,A,TGE,5.82,150,6,3.88,Aprobando,Marcela Cardona Bravo
+1065567554,Comportamiento del Consumidor,A,MER,6.4799999999999995,150,6,4.32,Sobresaliente,Esperanza Bermúdez Ospina
+1065567554,Fundamentos de Mercadeo,A,MER,6.44,150,6,4.29,Sobresaliente,Esperanza Bermúdez Ospina
+1067997857,Contabilidad Básica,A,COF,4.97,150,6,3.31,Aprobando,Alejandra Fernanda Jaramillo Hernández
+1067997857,Costos y Presupuestos,A,COF,3.79,130,5,2.92,En riesgo,Alejandra Fernanda Jaramillo Hernández
+1069403319,Comportamiento del Consumidor,A,MER,4.67,150,6,3.11,Aprobando,Vanesa Lucía Alzate
+1069403319,Fundamentos de Mercadeo,A,MER,4.83,150,6,3.22,Aprobando,Vanesa Lucía Alzate
+1070450977,Contabilidad Básica,A,COF,4.5649999999999995,150,6,3.04,Aprobando,Ruby Chacón
+1070450977,Costos y Presupuestos,A,COF,4.51,150,6,3.01,Aprobando,Ruby Chacón
+1075198615,Contabilidad Básica,A,COF,5.735,150,6,3.82,Aprobando,César Iván Gómez
+1075198615,Costos y Presupuestos,A,COF,5.845000000000001,150,6,3.9,Aprobando,César Iván Gómez
+1078049672,Contabilidad Básica,A,COF,4.415,130,5,3.4,Aprobando,David Ávila Suárez
+1078049672,Costos y Presupuestos,A,COF,4.07,130,5,3.13,Aprobando,David Ávila Suárez
+1078734158,Contabilidad Básica,A,COF,5.48,150,6,3.65,Aprobando,Manuel Juan Osorio Ortiz
+1078734158,Costos y Presupuestos,A,COF,5.25,150,6,3.5,Aprobando,Manuel Juan Osorio Ortiz
+1079954028,Comercio Internacional,A,CEX,4.73,150,6,3.15,Aprobando,Lucía Díaz
+1079954028,Logística y Distribución,A,CEX,3.6149999999999998,115,5,3.14,Aprobando,Lucía Díaz
+1083372470,Fundamentos de Finanzas,A,TGE,2.3449999999999998,150,6,1.56,En riesgo,Abraham Acosta
+1083372470,Gestión Administrativa,A,TGE,1.945,135,5,1.44,En riesgo,Abraham Acosta
+1084224675,Contabilidad Básica,A,COF,3.635,150,6,2.42,En riesgo,Patricia Castro
+1084224675,Costos y Presupuestos,A,COF,3.89,150,6,2.59,En riesgo,Patricia Castro
+1085814637,Comportamiento del Consumidor,A,MER,4.935,150,6,3.29,Aprobando,Carlos Alejandro Perdomo
+1085814637,Fundamentos de Mercadeo,A,MER,5.225,150,6,3.48,Aprobando,Carlos Alejandro Perdomo
+1086627883,Comercio Internacional,A,CEX,4.955,120,5,4.13,Sobresaliente,María Rincón
+1086627883,Logística y Distribución,A,CEX,3.815,100,4,3.81,Aprobando,María Rincón
+1089353101,Comportamiento del Consumidor,A,MER,6.195,130,5,4.77,Sobresaliente,Enrique Navarro Galindo
+1089353101,Fundamentos de Mercadeo,A,MER,5.449999999999999,120,5,4.54,Sobresaliente,Enrique Navarro Galindo
+1092602922,Comercio Internacional,A,CEX,3.565,150,6,2.38,En riesgo,Nelson Miguel Rodríguez
+1092602922,Logística y Distribución,A,CEX,3.815,150,6,2.54,En riesgo,Nelson Miguel Rodríguez
+1094232115,Comercio Internacional,A,CEX,4.300000000000001,150,6,2.87,En riesgo,José Fabio Cardona
+1094232115,Logística y Distribución,A,CEX,3.995,130,5,3.07,Aprobando,José Fabio Cardona
+1096462587,Fundamentos de Finanzas,A,TGE,5.21,115,5,4.53,Sobresaliente,Claudia Cristina Montoya Vargas
+1096462587,Gestión Administrativa,A,TGE,5.88,130,5,4.52,Sobresaliente,Claudia Cristina Montoya Vargas
+1098934041,Comportamiento del Consumidor,A,MER,4.455,150,6,2.97,En riesgo,Edilma Ramírez
+1098934041,Fundamentos de Mercadeo,A,MER,4.48,150,6,2.99,En riesgo,Edilma Ramírez
+1106739211,Comportamiento del Consumidor,A,MER,5.215,150,6,3.48,Aprobando,Fredy Delgado
+1106739211,Fundamentos de Mercadeo,A,MER,5.53,150,6,3.69,Aprobando,Fredy Delgado
+1115313871,Contabilidad Básica,A,COF,6.985,150,6,4.66,Sobresaliente,Victoria Xiomara Ospina
+1115313871,Costos y Presupuestos,A,COF,6.7,150,6,4.47,Sobresaliente,Victoria Xiomara Ospina
+1118254755,Comercio Internacional,A,CEX,3.75,150,6,2.5,En riesgo,Alberto Rodríguez Cardona
+1118254755,Logística y Distribución,A,CEX,3.12,130,5,2.4,En riesgo,Alberto Rodríguez Cardona
+1126135275,Comportamiento del Consumidor,A,MER,3.4450000000000003,115,5,3.0,Aprobando,Andrés Alfonso
+1126135275,Fundamentos de Mercadeo,A,MER,4.775,150,6,3.18,Aprobando,Andrés Alfonso
+1134587281,Comportamiento del Consumidor,A,MER,5.405,150,6,3.6,Aprobando,Joel Cantillo Sánchez
+1134587281,Fundamentos de Mercadeo,A,MER,4.77,150,6,3.18,Aprobando,Joel Cantillo Sánchez
+1140691218,Comercio Internacional,A,CEX,5.375,150,6,3.58,Aprobando,Marina María Jaramillo
+1140691218,Logística y Distribución,A,CEX,4.55,120,5,3.79,Aprobando,Marina María Jaramillo
+1142623717,Contabilidad Básica,A,COF,7.325,150,6,4.88,Sobresaliente,Gloria Yaneth Romero Bohórquez
+1142623717,Costos y Presupuestos,A,COF,7.32,150,6,4.88,Sobresaliente,Gloria Yaneth Romero Bohórquez
+1143013499,Comportamiento del Consumidor,A,MER,5.91,150,6,3.94,Aprobando,Danny Gómez García
+1143013499,Fundamentos de Mercadeo,A,MER,4.6499999999999995,115,5,4.04,Sobresaliente,Danny Gómez García
+1143236051,Comercio Internacional,A,CEX,6.595,150,6,4.4,Sobresaliente,Armando Díaz
+1143236051,Logística y Distribución,A,CEX,6.85,150,6,4.57,Sobresaliente,Armando Díaz
+1145845168,Fundamentos de Finanzas,A,TGE,3.955,120,5,3.3,Aprobando,Andrés Ignacio Ramos Palacio
+1145845168,Gestión Administrativa,A,TGE,4.705,150,6,3.14,Aprobando,Andrés Ignacio Ramos Palacio
+1147646609,Fundamentos de Finanzas,A,TGE,2.9699999999999998,150,6,1.98,En riesgo,Marina Rosa Londoño
+1147646609,Gestión Administrativa,A,TGE,3.35,150,6,2.23,En riesgo,Marina Rosa Londoño
+1148774004,Contabilidad Básica,A,COF,4.85,150,6,3.23,Aprobando,Milena Astrid Rengifo Durán
+1148774004,Costos y Presupuestos,A,COF,4.725,150,6,3.15,Aprobando,Milena Astrid Rengifo Durán
+1149060279,Fundamentos de Finanzas,A,TGE,4.5649999999999995,150,6,3.04,Aprobando,María Carolina Gómez
+1149060279,Gestión Administrativa,A,TGE,3.785,150,6,2.52,En riesgo,María Carolina Gómez
+1157098332,Comercio Internacional,A,CEX,3.355,150,6,2.24,En riesgo,Jesús Martín Mosquera Caro
+1157098332,Logística y Distribución,A,CEX,3.19,150,6,2.13,En riesgo,Jesús Martín Mosquera Caro
+1161929819,Comercio Internacional,A,CEX,5.914999999999999,150,6,3.94,Aprobando,Elvia Andrea Morales González
+1161929819,Logística y Distribución,A,CEX,6.31,150,6,4.21,Sobresaliente,Elvia Andrea Morales González
+1164637083,Comercio Internacional,A,CEX,2.59,150,6,1.73,En riesgo,Lilia Emma Restrepo Erazo
+1164637083,Logística y Distribución,A,CEX,2.505,135,5,1.86,En riesgo,Lilia Emma Restrepo Erazo
+1168413006,Comercio Internacional,A,CEX,5.035,150,6,3.36,Aprobando,Magnolia Erazo Moreno
+1168413006,Logística y Distribución,A,CEX,4.83,150,6,3.22,Aprobando,Magnolia Erazo Moreno
+1171545158,Fundamentos de Finanzas,A,TGE,3.92,135,5,2.9,En riesgo,José García Castaño
+1171545158,Gestión Administrativa,A,TGE,4.34,150,6,2.89,En riesgo,José García Castaño
+1171987735,Comportamiento del Consumidor,A,MER,6.209999999999999,150,6,4.14,Sobresaliente,Diego Mauricio Gil Orozco
+1171987735,Fundamentos de Mercadeo,A,MER,6.609999999999999,150,6,4.41,Sobresaliente,Diego Mauricio Gil Orozco
+1172055628,Contabilidad Básica,A,COF,4.29,150,6,2.86,En riesgo,Mercedes Jenny Sierra Castaño
+1172055628,Costos y Presupuestos,A,COF,4.1850000000000005,135,5,3.1,Aprobando,Mercedes Jenny Sierra Castaño
+1173165555,Fundamentos de Finanzas,A,TGE,4.67,150,6,3.11,Aprobando,Fernando Sánchez
+1173165555,Gestión Administrativa,A,TGE,4.155,150,6,2.77,En riesgo,Fernando Sánchez
+1174813697,Fundamentos de Finanzas,A,TGE,4.54,135,5,3.36,Aprobando,Laura Angie López Parada
+1174813697,Gestión Administrativa,A,TGE,4.62,135,5,3.42,Aprobando,Laura Angie López Parada
+1175022528,Contabilidad Básica,A,COF,6.275,150,6,4.18,Sobresaliente,Ana Jenny Gómez Muñoz
+1175022528,Costos y Presupuestos,A,COF,5.415,150,6,3.61,Aprobando,Ana Jenny Gómez Muñoz
+1179718076,Comportamiento del Consumidor,A,MER,3.985,150,6,2.66,En riesgo,Carmen Milena Ramírez Contreras
+1179718076,Fundamentos de Mercadeo,A,MER,4.055,150,6,2.7,En riesgo,Carmen Milena Ramírez Contreras
+1181682904,Contabilidad Básica,A,COF,5.005,105,4,4.77,Sobresaliente,William Edgar Vega Palacios
+1181682904,Costos y Presupuestos,A,COF,6.43,130,5,4.95,Sobresaliente,William Edgar Vega Palacios
+1188319925,Fundamentos de Finanzas,A,TGE,6.21,150,6,4.14,Sobresaliente,Jaime Sepúlveda
+1188319925,Gestión Administrativa,A,TGE,6.03,150,6,4.02,Sobresaliente,Jaime Sepúlveda
+1189352563,Fundamentos de Finanzas,A,TGE,6.6899999999999995,150,6,4.46,Sobresaliente,Eduardo Romero Guerrero
+1189352563,Gestión Administrativa,A,TGE,6.82,150,6,4.55,Sobresaliente,Eduardo Romero Guerrero
+1192336980,Fundamentos de Finanzas,A,TGE,4.88,130,5,3.75,Aprobando,María Nubia Reyes Serna
+1192336980,Gestión Administrativa,A,TGE,5.045,135,5,3.74,Aprobando,María Nubia Reyes Serna
+1192837225,Comercio Internacional,A,CEX,3.72,135,5,2.76,En riesgo,Carolina Dina Moreno Quintero
+1192837225,Logística y Distribución,A,CEX,3.72,150,6,2.48,En riesgo,Carolina Dina Moreno Quintero
+1197637041,Fundamentos de Finanzas,A,TGE,6.555,150,6,4.37,Sobresaliente,Arturo Ospina Correa
+1197637041,Gestión Administrativa,A,TGE,6.444999999999999,150,6,4.3,Sobresaliente,Arturo Ospina Correa

@@ -1,0 +1,757 @@
+id_nota,cedula,programa,grupo,materia,docente,corte,tipo_actividad,peso_pct,nota,fecha_evaluacion
+N0001,1078049672,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,3.0,2025-02-17
+N0002,1078049672,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.7,2025-03-06
+N0003,1078049672,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.6,2025-04-02
+N0004,1078049672,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial (ausente),20,,2025-04-09
+N0005,1078049672,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,3.4,2025-05-19
+N0006,1078049672,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.6,2025-05-28
+N0007,1078049672,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,3.2,2025-03-12
+N0008,1078049672,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.2,2025-03-16
+N0009,1078049672,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.5,2025-04-17
+N0010,1078049672,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial (ausente),20,,2025-03-26
+N0011,1078049672,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,2.6,2025-06-06
+N0012,1078049672,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.4,2025-05-24
+N0013,1175022528,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,4.6,2025-02-13
+N0014,1175022528,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,4.3,2025-03-09
+N0015,1175022528,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,4.3,2025-04-02
+N0016,1175022528,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,3.9,2025-05-02
+N0017,1175022528,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,3.9,2025-05-21
+N0018,1175022528,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.9,2025-05-06
+N0019,1175022528,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,3.6,2025-02-10
+N0020,1175022528,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.6,2025-03-03
+N0021,1175022528,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.5,2025-04-20
+N0022,1175022528,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,3.4,2025-04-25
+N0023,1175022528,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,3.8,2025-06-03
+N0024,1175022528,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.7,2025-05-13
+N0025,1172055628,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,2.4,2025-03-19
+N0026,1172055628,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.5,2025-02-21
+N0027,1172055628,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.3,2025-03-27
+N0028,1172055628,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,2.8,2025-03-25
+N0029,1172055628,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,2.9,2025-05-27
+N0030,1172055628,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,2.4,2025-06-10
+N0031,1172055628,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,3.5,2025-02-14
+N0032,1172055628,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.4,2025-03-03
+N0033,1172055628,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,2.8,2025-03-31
+N0034,1172055628,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,3.5,2025-03-28
+N0035,1172055628,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,2.6,2025-05-31
+N0036,1172055628,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación (ausente),15,,2025-06-19
+N0037,1142623717,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,4.6,2025-02-13
+N0038,1142623717,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,5.0,2025-02-23
+N0039,1142623717,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,5.0,2025-04-26
+N0040,1142623717,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,5.0,2025-04-28
+N0041,1142623717,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.9,2025-05-10
+N0042,1142623717,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,5.0,2025-06-15
+N0043,1142623717,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,5.0,2025-02-23
+N0044,1142623717,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,5.0,2025-02-11
+N0045,1142623717,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,5.0,2025-04-20
+N0046,1142623717,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,5.0,2025-04-04
+N0047,1142623717,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,4.7,2025-06-05
+N0048,1142623717,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,4.5,2025-05-14
+N0049,1008046078,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,4.3,2025-03-15
+N0050,1008046078,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,4.2,2025-03-09
+N0051,1008046078,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.4,2025-04-12
+N0052,1008046078,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,4.1,2025-04-28
+N0053,1008046078,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.4,2025-05-23
+N0054,1008046078,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.9,2025-06-15
+N0055,1008046078,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,4.7,2025-02-13
+N0056,1008046078,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,4.7,2025-02-24
+N0057,1008046078,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.3,2025-03-30
+N0058,1008046078,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,4.4,2025-04-29
+N0059,1008046078,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,4.3,2025-05-13
+N0060,1008046078,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,4.0,2025-05-28
+N0061,1070450977,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,3.4,2025-02-16
+N0062,1070450977,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.4,2025-02-27
+N0063,1070450977,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,2.5,2025-03-24
+N0064,1070450977,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,3.1,2025-04-01
+N0065,1070450977,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,2.9,2025-05-06
+N0066,1070450977,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.2,2025-05-26
+N0067,1070450977,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,2.9,2025-02-20
+N0068,1070450977,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,2.3,2025-03-09
+N0069,1070450977,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.6,2025-03-31
+N0070,1070450977,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,2.7,2025-04-28
+N0071,1070450977,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,3.0,2025-05-06
+N0072,1070450977,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.2,2025-05-30
+N0073,1037448664,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,3.4,2025-03-17
+N0074,1037448664,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.1,2025-03-17
+N0075,1037448664,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito (ausente),30,,2025-04-22
+N0076,1037448664,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,2.6,2025-04-21
+N0077,1037448664,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,3.2,2025-06-09
+N0078,1037448664,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación (ausente),15,,2025-06-01
+N0079,1037448664,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito (ausente),35,,2025-02-27
+N0080,1037448664,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.1,2025-03-11
+N0081,1037448664,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.0,2025-05-02
+N0082,1037448664,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,3.4,2025-04-29
+N0083,1037448664,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,3.6,2025-05-30
+N0084,1037448664,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,2.5,2025-06-10
+N0085,1062821371,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito (ausente),35,,2025-02-11
+N0086,1062821371,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,4.1,2025-03-21
+N0087,1062821371,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.6,2025-04-22
+N0088,1062821371,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,4.9,2025-04-24
+N0089,1062821371,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.0,2025-06-06
+N0090,1062821371,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,4.1,2025-05-05
+N0091,1062821371,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,5.0,2025-02-25
+N0092,1062821371,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,4.6,2025-02-11
+N0093,1062821371,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.5,2025-04-22
+N0094,1062821371,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,4.8,2025-04-19
+N0095,1062821371,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,4.5,2025-06-05
+N0096,1062821371,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,4.1,2025-05-14
+N0097,1115313871,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,4.9,2025-02-11
+N0098,1115313871,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,4.4,2025-03-12
+N0099,1115313871,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,4.5,2025-04-24
+N0100,1115313871,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,5.0,2025-03-31
+N0101,1115313871,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.4,2025-06-12
+N0102,1115313871,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,4.8,2025-06-10
+N0103,1115313871,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,4.5,2025-02-11
+N0104,1115313871,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,4.2,2025-03-10
+N0105,1115313871,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,4.5,2025-04-14
+N0106,1115313871,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,4.7,2025-04-04
+N0107,1115313871,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,4.8,2025-05-20
+N0108,1115313871,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.5,2025-06-10
+N0109,1084224675,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,2.4,2025-02-20
+N0110,1084224675,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,2.1,2025-03-08
+N0111,1084224675,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,2.6,2025-03-24
+N0112,1084224675,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,2.9,2025-04-21
+N0113,1084224675,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,2.0,2025-05-16
+N0114,1084224675,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,2.8,2025-06-20
+N0115,1084224675,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,2.7,2025-03-20
+N0116,1084224675,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,1.6,2025-03-20
+N0117,1084224675,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.1,2025-04-01
+N0118,1084224675,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,2.2,2025-04-08
+N0119,1084224675,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,2.7,2025-05-11
+N0120,1084224675,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,2.6,2025-05-26
+N0121,1148774004,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,3.3,2025-02-17
+N0122,1148774004,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.4,2025-02-21
+N0123,1148774004,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.1,2025-04-24
+N0124,1148774004,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,3.5,2025-04-22
+N0125,1148774004,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,2.9,2025-05-06
+N0126,1148774004,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.6,2025-05-27
+N0127,1148774004,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,3.1,2025-03-08
+N0128,1148774004,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.3,2025-03-20
+N0129,1148774004,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,2.4,2025-04-14
+N0130,1148774004,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,3.5,2025-04-30
+N0131,1148774004,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,3.6,2025-06-05
+N0132,1148774004,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.1,2025-05-17
+N0133,1181682904,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,4.7,2025-03-01
+N0134,1181682904,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal (ausente),15,,2025-03-01
+N0135,1181682904,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito (ausente),30,,2025-03-27
+N0136,1181682904,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,5.0,2025-03-28
+N0137,1181682904,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.6,2025-06-12
+N0138,1181682904,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,5.0,2025-06-17
+N0139,1181682904,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,4.8,2025-02-20
+N0140,1181682904,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,5.0,2025-02-12
+N0141,1181682904,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,5.0,2025-04-20
+N0142,1181682904,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial (ausente),20,,2025-04-20
+N0143,1181682904,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,5.0,2025-05-14
+N0144,1181682904,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,5.0,2025-05-28
+N0145,1078734158,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,3.1,2025-03-14
+N0146,1078734158,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.6,2025-02-20
+N0147,1078734158,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.7,2025-04-07
+N0148,1078734158,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,3.5,2025-04-18
+N0149,1078734158,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.3,2025-06-14
+N0150,1078734158,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.6,2025-05-21
+N0151,1078734158,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,3.7,2025-02-14
+N0152,1078734158,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.0,2025-03-08
+N0153,1078734158,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.4,2025-04-21
+N0154,1078734158,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,3.8,2025-04-20
+N0155,1078734158,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,3.3,2025-05-19
+N0156,1078734158,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.8,2025-05-11
+N0157,1067997857,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,3.4,2025-02-15
+N0158,1067997857,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,3.3,2025-03-04
+N0159,1067997857,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.0,2025-03-31
+N0160,1067997857,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,3.3,2025-04-13
+N0161,1067997857,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,3.6,2025-05-30
+N0162,1067997857,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.1,2025-06-10
+N0163,1067997857,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,3.0,2025-03-06
+N0164,1067997857,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,3.3,2025-02-14
+N0165,1067997857,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,2.3,2025-05-02
+N0166,1067997857,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial (ausente),20,,2025-04-14
+N0167,1067997857,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,2.9,2025-06-07
+N0168,1067997857,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,3.6,2025-05-15
+N0169,1075198615,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Parcial escrito,35,4.1,2025-03-07
+N0170,1075198615,COF,A,Contabilidad Básica,Martha Lucía Giraldo,1,Taller grupal,15,4.2,2025-02-23
+N0171,1075198615,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Parcial escrito,30,3.2,2025-04-18
+N0172,1075198615,COF,A,Contabilidad Básica,Martha Lucía Giraldo,2,Proyecto parcial,20,3.4,2025-04-18
+N0173,1075198615,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Proyecto final,35,4.3,2025-05-22
+N0174,1075198615,COF,A,Contabilidad Básica,Martha Lucía Giraldo,3,Sustentación,15,3.5,2025-05-17
+N0175,1075198615,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Parcial escrito,35,4.1,2025-03-13
+N0176,1075198615,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,1,Taller grupal,15,4.5,2025-02-28
+N0177,1075198615,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Parcial escrito,30,3.1,2025-04-09
+N0178,1075198615,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,2,Proyecto parcial,20,4.0,2025-04-02
+N0179,1075198615,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Proyecto final,35,3.8,2025-06-15
+N0180,1075198615,COF,A,Costos y Presupuestos,Martha Lucía Giraldo,3,Sustentación,15,4.5,2025-06-11
+N0181,1147646609,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,1.9,2025-03-06
+N0182,1147646609,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,2.6,2025-03-04
+N0183,1147646609,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,2.4,2025-04-04
+N0184,1147646609,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,2.2,2025-03-28
+N0185,1147646609,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.3,2025-05-20
+N0186,1147646609,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,2.2,2025-05-18
+N0187,1147646609,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,1.6,2025-03-03
+N0188,1147646609,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,2.4,2025-03-09
+N0189,1147646609,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,2.0,2025-04-18
+N0190,1147646609,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,2.2,2025-03-27
+N0191,1147646609,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,1.9,2025-06-10
+N0192,1147646609,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,2.3,2025-05-18
+N0193,1188319925,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,4.0,2025-03-11
+N0194,1188319925,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,4.6,2025-02-20
+N0195,1188319925,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,4.3,2025-04-05
+N0196,1188319925,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.6,2025-04-19
+N0197,1188319925,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,3.8,2025-05-22
+N0198,1188319925,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.0,2025-05-07
+N0199,1188319925,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,4.5,2025-02-23
+N0200,1188319925,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,4.6,2025-02-28
+N0201,1188319925,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.6,2025-05-02
+N0202,1188319925,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,4.6,2025-03-27
+N0203,1188319925,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,4.1,2025-05-31
+N0204,1188319925,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,3.4,2025-06-19
+N0205,1174813697,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,3.0,2025-02-14
+N0206,1174813697,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,4.1,2025-02-15
+N0207,1174813697,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.1,2025-04-06
+N0208,1174813697,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.3,2025-04-21
+N0209,1174813697,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,3.9,2025-05-05
+N0210,1174813697,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación (ausente),15,,2025-05-16
+N0211,1174813697,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.8,2025-03-01
+N0212,1174813697,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal (ausente),15,,2025-03-19
+N0213,1174813697,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.0,2025-04-11
+N0214,1174813697,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,2.5,2025-03-26
+N0215,1174813697,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,3.8,2025-06-04
+N0216,1174813697,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,3.2,2025-05-14
+N0217,1000585462,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,3.7,2025-03-16
+N0218,1000585462,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,3.5,2025-02-27
+N0219,1000585462,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.6,2025-05-02
+N0220,1000585462,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.4,2025-04-07
+N0221,1000585462,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,3.8,2025-05-09
+N0222,1000585462,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,3.0,2025-06-08
+N0223,1000585462,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,4.1,2025-03-21
+N0224,1000585462,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,2.6,2025-02-12
+N0225,1000585462,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.8,2025-05-02
+N0226,1000585462,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.5,2025-04-23
+N0227,1000585462,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,3.4,2025-06-15
+N0228,1000585462,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,4.0,2025-06-04
+N0229,1038049534,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,2.9,2025-03-02
+N0230,1038049534,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,2.8,2025-02-28
+N0231,1038049534,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.0,2025-04-22
+N0232,1038049534,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.2,2025-04-03
+N0233,1038049534,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.9,2025-06-07
+N0234,1038049534,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,3.1,2025-05-14
+N0235,1038049534,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito (ausente),35,,2025-02-19
+N0236,1038049534,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,2.4,2025-03-03
+N0237,1038049534,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.1,2025-04-25
+N0238,1038049534,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,2.3,2025-04-14
+N0239,1038049534,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,2.5,2025-06-11
+N0240,1038049534,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,2.8,2025-05-31
+N0241,1171545158,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,2.7,2025-02-12
+N0242,1171545158,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,3.2,2025-03-02
+N0243,1171545158,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,2.7,2025-03-31
+N0244,1171545158,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.2,2025-04-04
+N0245,1171545158,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.9,2025-05-31
+N0246,1171545158,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,3.0,2025-05-18
+N0247,1171545158,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.1,2025-03-15
+N0248,1171545158,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal (ausente),15,,2025-03-08
+N0249,1171545158,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,2.7,2025-04-22
+N0250,1171545158,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.3,2025-04-10
+N0251,1171545158,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,2.7,2025-05-23
+N0252,1171545158,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,2.8,2025-06-14
+N0253,1197637041,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,4.3,2025-03-04
+N0254,1197637041,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,4.1,2025-03-10
+N0255,1197637041,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,4.1,2025-04-07
+N0256,1197637041,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,4.5,2025-04-05
+N0257,1197637041,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,4.3,2025-06-03
+N0258,1197637041,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.6,2025-05-07
+N0259,1197637041,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,4.7,2025-03-07
+N0260,1197637041,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,4.1,2025-03-20
+N0261,1197637041,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,5.0,2025-03-31
+N0262,1197637041,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,4.1,2025-03-30
+N0263,1197637041,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,3.8,2025-05-11
+N0264,1197637041,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,4.3,2025-05-07
+N0265,1189352563,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,4.8,2025-03-09
+N0266,1189352563,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,4.3,2025-02-23
+N0267,1189352563,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,4.4,2025-03-26
+N0268,1189352563,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,4.8,2025-03-31
+N0269,1189352563,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,4.4,2025-05-22
+N0270,1189352563,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.5,2025-06-09
+N0271,1189352563,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,4.6,2025-03-07
+N0272,1189352563,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,4.5,2025-02-21
+N0273,1189352563,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,4.7,2025-04-30
+N0274,1189352563,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,4.0,2025-04-21
+N0275,1189352563,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,4.3,2025-05-27
+N0276,1189352563,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,4.6,2025-05-20
+N0277,1192336980,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,4.2,2025-02-23
+N0278,1192336980,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal (ausente),15,,2025-03-16
+N0279,1192336980,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.1,2025-04-11
+N0280,1192336980,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.0,2025-04-08
+N0281,1192336980,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,4.0,2025-05-26
+N0282,1192336980,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.3,2025-06-08
+N0283,1192336980,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.3,2025-03-06
+N0284,1192336980,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,2.4,2025-03-18
+N0285,1192336980,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.8,2025-04-27
+N0286,1192336980,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial (ausente),20,,2025-04-15
+N0287,1192336980,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,4.9,2025-06-05
+N0288,1192336980,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,3.4,2025-05-05
+N0289,1063796148,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,3.7,2025-02-16
+N0290,1063796148,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,3.6,2025-03-12
+N0291,1063796148,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.6,2025-04-12
+N0292,1063796148,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,4.1,2025-04-01
+N0293,1063796148,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,4.2,2025-06-16
+N0294,1063796148,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.1,2025-06-02
+N0295,1063796148,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.6,2025-02-16
+N0296,1063796148,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,4.3,2025-02-13
+N0297,1063796148,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.5,2025-04-30
+N0298,1063796148,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.1,2025-04-08
+N0299,1063796148,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,3.8,2025-06-04
+N0300,1063796148,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,3.7,2025-05-22
+N0301,1011425484,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,2.5,2025-03-02
+N0302,1011425484,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,2.6,2025-03-04
+N0303,1011425484,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.5,2025-03-25
+N0304,1011425484,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,2.6,2025-04-05
+N0305,1011425484,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.8,2025-05-12
+N0306,1011425484,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,2.8,2025-06-08
+N0307,1011425484,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,2.8,2025-03-16
+N0308,1011425484,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,1.6,2025-02-27
+N0309,1011425484,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,2.3,2025-05-01
+N0310,1011425484,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,2.4,2025-04-12
+N0311,1011425484,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,2.7,2025-05-21
+N0312,1011425484,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación (ausente),15,,2025-06-09
+N0313,1096462587,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,4.6,2025-02-23
+N0314,1096462587,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,4.8,2025-02-25
+N0315,1096462587,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,4.4,2025-04-03
+N0316,1096462587,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial (ausente),20,,2025-04-16
+N0317,1096462587,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,4.4,2025-05-22
+N0318,1096462587,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.6,2025-05-16
+N0319,1096462587,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito (ausente),35,,2025-02-24
+N0320,1096462587,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,4.9,2025-03-12
+N0321,1096462587,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,5.0,2025-04-22
+N0322,1096462587,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.5,2025-04-07
+N0323,1096462587,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,4.4,2025-06-09
+N0324,1096462587,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,4.9,2025-05-24
+N0325,1048895795,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,2.1,2025-02-14
+N0326,1048895795,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,2.7,2025-02-19
+N0327,1048895795,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,2.0,2025-04-12
+N0328,1048895795,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,2.0,2025-04-23
+N0329,1048895795,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final (ausente),35,,2025-05-28
+N0330,1048895795,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,2.2,2025-06-03
+N0331,1048895795,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,1.9,2025-03-02
+N0332,1048895795,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,2.1,2025-03-14
+N0333,1048895795,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,1.6,2025-04-22
+N0334,1048895795,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,2.2,2025-05-01
+N0335,1048895795,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,2.8,2025-05-20
+N0336,1048895795,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,1.9,2025-05-05
+N0337,1149060279,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,2.3,2025-02-14
+N0338,1149060279,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,2.6,2025-02-18
+N0339,1149060279,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,2.8,2025-03-29
+N0340,1149060279,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,2.7,2025-04-21
+N0341,1149060279,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.6,2025-05-28
+N0342,1149060279,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,2.0,2025-05-30
+N0343,1149060279,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.1,2025-03-21
+N0344,1149060279,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,3.0,2025-02-17
+N0345,1149060279,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.3,2025-04-03
+N0346,1149060279,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.1,2025-04-18
+N0347,1149060279,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,2.9,2025-05-13
+N0348,1149060279,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,2.7,2025-05-12
+N0349,1018560681,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,4.5,2025-02-24
+N0350,1018560681,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,3.5,2025-03-21
+N0351,1018560681,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,4.6,2025-05-01
+N0352,1018560681,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,4.4,2025-04-17
+N0353,1018560681,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,4.1,2025-05-29
+N0354,1018560681,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,4.3,2025-05-28
+N0355,1018560681,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.8,2025-03-20
+N0356,1018560681,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,5.0,2025-03-19
+N0357,1018560681,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito (ausente),30,,2025-04-12
+N0358,1018560681,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,4.2,2025-04-30
+N0359,1018560681,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,4.5,2025-06-15
+N0360,1018560681,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,3.6,2025-06-01
+N0361,1145845168,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,3.1,2025-03-11
+N0362,1145845168,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,2.8,2025-03-19
+N0363,1145845168,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,3.8,2025-03-27
+N0364,1145845168,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,3.2,2025-04-13
+N0365,1145845168,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.9,2025-06-17
+N0366,1145845168,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,2.7,2025-06-11
+N0367,1145845168,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.2,2025-02-23
+N0368,1145845168,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,3.3,2025-03-12
+N0369,1145845168,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito (ausente),30,,2025-04-02
+N0370,1145845168,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.1,2025-04-01
+N0371,1145845168,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,3.5,2025-06-18
+N0372,1145845168,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,3.3,2025-06-11
+N0373,1173165555,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,2.4,2025-02-13
+N0374,1173165555,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,3.1,2025-03-06
+N0375,1173165555,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,2.7,2025-04-29
+N0376,1173165555,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,2.6,2025-04-23
+N0377,1173165555,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.8,2025-05-09
+N0378,1173165555,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación,15,3.6,2025-06-07
+N0379,1173165555,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,3.0,2025-03-05
+N0380,1173165555,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,2.6,2025-03-17
+N0381,1173165555,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,3.1,2025-04-09
+N0382,1173165555,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,3.1,2025-04-08
+N0383,1173165555,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,3.6,2025-06-16
+N0384,1173165555,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,2.8,2025-06-15
+N0385,1083372470,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Parcial escrito,35,1.1,2025-03-09
+N0386,1083372470,TGE,A,Gestión Administrativa,Ricardo Andrade,1,Taller grupal,15,1.4,2025-03-14
+N0387,1083372470,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Parcial escrito,30,1.1,2025-03-31
+N0388,1083372470,TGE,A,Gestión Administrativa,Ricardo Andrade,2,Proyecto parcial,20,1.6,2025-04-15
+N0389,1083372470,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Proyecto final,35,2.0,2025-06-09
+N0390,1083372470,TGE,A,Gestión Administrativa,Ricardo Andrade,3,Sustentación (ausente),15,,2025-05-15
+N0391,1083372470,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Parcial escrito,35,2.0,2025-03-17
+N0392,1083372470,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,1,Taller grupal,15,1.6,2025-03-20
+N0393,1083372470,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Parcial escrito,30,1.7,2025-04-01
+N0394,1083372470,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,2,Proyecto parcial,20,1.3,2025-04-10
+N0395,1083372470,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Proyecto final,35,1.3,2025-05-06
+N0396,1083372470,TGE,A,Fundamentos de Finanzas,Ricardo Andrade,3,Sustentación,15,1.2,2025-05-06
+N0397,1126135275,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.1,2025-03-05
+N0398,1126135275,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,2.6,2025-02-15
+N0399,1126135275,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,2.8,2025-04-22
+N0400,1126135275,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,2.9,2025-04-01
+N0401,1126135275,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.7,2025-05-22
+N0402,1126135275,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,3.9,2025-06-14
+N0403,1126135275,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito (ausente),35,,2025-03-16
+N0404,1126135275,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,2.5,2025-02-18
+N0405,1126135275,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,2.6,2025-04-03
+N0406,1126135275,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.8,2025-03-25
+N0407,1126135275,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.0,2025-05-05
+N0408,1126135275,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.2,2025-06-09
+N0409,1085814637,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.7,2025-02-27
+N0410,1085814637,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,3.8,2025-03-07
+N0411,1085814637,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,3.5,2025-04-16
+N0412,1085814637,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,4.1,2025-04-09
+N0413,1085814637,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,2.8,2025-06-01
+N0414,1085814637,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,3.4,2025-06-01
+N0415,1085814637,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,3.5,2025-02-28
+N0416,1085814637,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,3.2,2025-02-10
+N0417,1085814637,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,3.5,2025-04-21
+N0418,1085814637,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.3,2025-03-24
+N0419,1085814637,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.1,2025-05-25
+N0420,1085814637,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,2.9,2025-06-17
+N0421,1143013499,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito (ausente),35,,2025-03-10
+N0422,1143013499,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,4.1,2025-02-10
+N0423,1143013499,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,4.2,2025-04-25
+N0424,1143013499,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,3.7,2025-04-01
+N0425,1143013499,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,4.1,2025-05-26
+N0426,1143013499,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,4.0,2025-06-08
+N0427,1143013499,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,4.2,2025-03-08
+N0428,1143013499,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,3.8,2025-03-11
+N0429,1143013499,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,3.6,2025-04-21
+N0430,1143013499,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.9,2025-03-26
+N0431,1143013499,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,4.2,2025-06-06
+N0432,1143013499,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.6,2025-06-09
+N0433,1179718076,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.3,2025-02-15
+N0434,1179718076,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,1.9,2025-03-01
+N0435,1179718076,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,3.2,2025-04-30
+N0436,1179718076,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,3.2,2025-04-08
+N0437,1179718076,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,2.0,2025-05-31
+N0438,1179718076,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,2.1,2025-05-22
+N0439,1179718076,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,2.3,2025-03-08
+N0440,1179718076,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,2.3,2025-03-13
+N0441,1179718076,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,2.6,2025-03-31
+N0442,1179718076,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,2.7,2025-03-28
+N0443,1179718076,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.3,2025-06-05
+N0444,1179718076,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,2.4,2025-06-13
+N0445,1134587281,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.1,2025-03-06
+N0446,1134587281,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,3.8,2025-03-20
+N0447,1134587281,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,2.8,2025-04-06
+N0448,1134587281,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,2.2,2025-04-12
+N0449,1134587281,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.7,2025-05-30
+N0450,1134587281,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,3.6,2025-06-16
+N0451,1134587281,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,3.8,2025-03-21
+N0452,1134587281,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,3.0,2025-03-01
+N0453,1134587281,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,3.7,2025-03-27
+N0454,1134587281,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.4,2025-04-12
+N0455,1134587281,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.7,2025-05-12
+N0456,1134587281,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.6,2025-05-17
+N0457,1039290100,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.4,2025-03-09
+N0458,1039290100,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,4.1,2025-02-24
+N0459,1039290100,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito (ausente),30,,2025-04-07
+N0460,1039290100,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,4.0,2025-04-18
+N0461,1039290100,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,5.0,2025-06-09
+N0462,1039290100,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,3.5,2025-06-08
+N0463,1039290100,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,4.1,2025-02-13
+N0464,1039290100,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,4.5,2025-03-03
+N0465,1039290100,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,4.2,2025-04-27
+N0466,1039290100,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.7,2025-03-30
+N0467,1039290100,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,4.1,2025-05-28
+N0468,1039290100,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.0,2025-05-09
+N0469,1069403319,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.2,2025-03-04
+N0470,1069403319,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,3.3,2025-02-25
+N0471,1069403319,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,3.0,2025-04-03
+N0472,1069403319,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,3.7,2025-04-01
+N0473,1069403319,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.3,2025-05-18
+N0474,1069403319,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,2.8,2025-05-09
+N0475,1069403319,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,3.0,2025-03-10
+N0476,1069403319,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,3.2,2025-03-02
+N0477,1069403319,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,3.1,2025-04-19
+N0478,1069403319,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.4,2025-04-13
+N0479,1069403319,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.3,2025-05-15
+N0480,1069403319,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,2.5,2025-06-03
+N0481,1065567554,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,4.6,2025-03-05
+N0482,1065567554,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,4.3,2025-02-22
+N0483,1065567554,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,4.5,2025-05-02
+N0484,1065567554,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,4.2,2025-04-14
+N0485,1065567554,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.9,2025-05-13
+N0486,1065567554,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,4.2,2025-05-26
+N0487,1065567554,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,3.9,2025-03-04
+N0488,1065567554,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,4.4,2025-02-28
+N0489,1065567554,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,4.1,2025-04-26
+N0490,1065567554,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,4.8,2025-04-28
+N0491,1065567554,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,4.5,2025-05-29
+N0492,1065567554,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,4.6,2025-06-02
+N0493,1171987735,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,4.6,2025-02-19
+N0494,1171987735,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,4.8,2025-03-15
+N0495,1171987735,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,4.8,2025-03-24
+N0496,1171987735,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,4.5,2025-04-29
+N0497,1171987735,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.4,2025-05-23
+N0498,1171987735,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,5.0,2025-06-17
+N0499,1171987735,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,4.5,2025-02-15
+N0500,1171987735,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,4.6,2025-03-01
+N0501,1171987735,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,4.1,2025-04-14
+N0502,1171987735,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.3,2025-04-03
+N0503,1171987735,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.9,2025-05-14
+N0504,1171987735,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,4.6,2025-06-01
+N0505,1106739211,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.8,2025-02-27
+N0506,1106739211,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,3.7,2025-03-13
+N0507,1106739211,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,3.9,2025-03-25
+N0508,1106739211,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,3.3,2025-05-01
+N0509,1106739211,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.6,2025-06-18
+N0510,1106739211,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,3.7,2025-05-08
+N0511,1106739211,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,3.8,2025-03-12
+N0512,1106739211,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,2.9,2025-03-09
+N0513,1106739211,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,3.5,2025-04-18
+N0514,1106739211,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.3,2025-04-30
+N0515,1106739211,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,3.3,2025-06-02
+N0516,1106739211,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.9,2025-06-14
+N0517,1051117849,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,2.3,2025-03-07
+N0518,1051117849,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,2.6,2025-02-10
+N0519,1051117849,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,3.6,2025-04-22
+N0520,1051117849,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,3.3,2025-04-02
+N0521,1051117849,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,2.1,2025-05-16
+N0522,1051117849,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,2.4,2025-05-24
+N0523,1051117849,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,2.9,2025-02-14
+N0524,1051117849,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,3.3,2025-03-08
+N0525,1051117849,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,2.1,2025-05-02
+N0526,1051117849,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.3,2025-04-02
+N0527,1051117849,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,1.9,2025-06-03
+N0528,1051117849,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.3,2025-05-26
+N0529,1089353101,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,4.8,2025-02-22
+N0530,1089353101,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,4.1,2025-02-27
+N0531,1089353101,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito (ausente),30,,2025-04-28
+N0532,1089353101,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,4.3,2025-04-24
+N0533,1089353101,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,4.5,2025-05-24
+N0534,1089353101,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,4.8,2025-06-04
+N0535,1089353101,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,4.9,2025-03-15
+N0536,1089353101,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,4.4,2025-02-28
+N0537,1089353101,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,4.5,2025-04-02
+N0538,1089353101,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial (ausente),20,,2025-04-13
+N0539,1089353101,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,5.0,2025-06-05
+N0540,1089353101,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,4.8,2025-05-27
+N0541,1036772559,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,4.4,2025-02-27
+N0542,1036772559,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,4.5,2025-02-10
+N0543,1036772559,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,4.7,2025-04-21
+N0544,1036772559,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial (ausente),20,,2025-04-07
+N0545,1036772559,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,4.5,2025-06-14
+N0546,1036772559,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,4.9,2025-06-02
+N0547,1036772559,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,4.4,2025-03-21
+N0548,1036772559,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,4.3,2025-02-15
+N0549,1036772559,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,4.2,2025-04-04
+N0550,1036772559,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,4.3,2025-04-23
+N0551,1036772559,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,4.1,2025-06-16
+N0552,1036772559,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,4.2,2025-06-03
+N0553,1098934041,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Parcial escrito,35,3.5,2025-02-14
+N0554,1098934041,MER,A,Fundamentos de Mercadeo,Paola Murillo,1,Taller grupal,15,2.8,2025-02-28
+N0555,1098934041,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Parcial escrito,30,2.7,2025-04-26
+N0556,1098934041,MER,A,Fundamentos de Mercadeo,Paola Murillo,2,Proyecto parcial,20,2.7,2025-04-10
+N0557,1098934041,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Proyecto final,35,3.0,2025-06-09
+N0558,1098934041,MER,A,Fundamentos de Mercadeo,Paola Murillo,3,Sustentación,15,2.9,2025-05-08
+N0559,1098934041,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Parcial escrito,35,2.6,2025-03-04
+N0560,1098934041,MER,A,Comportamiento del Consumidor,Paola Murillo,1,Taller grupal,15,2.6,2025-02-23
+N0561,1098934041,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Parcial escrito,30,3.3,2025-04-01
+N0562,1098934041,MER,A,Comportamiento del Consumidor,Paola Murillo,2,Proyecto parcial,20,3.3,2025-04-08
+N0563,1098934041,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Proyecto final,35,2.8,2025-05-14
+N0564,1098934041,MER,A,Comportamiento del Consumidor,Paola Murillo,3,Sustentación,15,3.5,2025-06-18
+N0565,1161929819,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,4.2,2025-02-22
+N0566,1161929819,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.5,2025-03-09
+N0567,1161929819,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.8,2025-04-25
+N0568,1161929819,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,4.2,2025-04-08
+N0569,1161929819,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,4.0,2025-05-08
+N0570,1161929819,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,3.6,2025-05-20
+N0571,1161929819,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,4.5,2025-03-06
+N0572,1161929819,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,4.0,2025-03-14
+N0573,1161929819,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,4.1,2025-05-02
+N0574,1161929819,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,4.2,2025-04-28
+N0575,1161929819,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,4.4,2025-06-06
+N0576,1161929819,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.5,2025-06-09
+N0577,1034433230,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.3,2025-03-09
+N0578,1034433230,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.6,2025-02-25
+N0579,1034433230,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.2,2025-04-22
+N0580,1034433230,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.1,2025-04-14
+N0581,1034433230,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.4,2025-05-08
+N0582,1034433230,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,4.5,2025-06-11
+N0583,1034433230,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,3.3,2025-02-12
+N0584,1034433230,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,2.9,2025-02-17
+N0585,1034433230,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,3.9,2025-04-24
+N0586,1034433230,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,3.5,2025-04-22
+N0587,1034433230,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,3.5,2025-05-18
+N0588,1034433230,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación (ausente),15,,2025-06-15
+N0589,1157098332,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,2.4,2025-03-19
+N0590,1157098332,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,2.0,2025-03-10
+N0591,1157098332,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,2.2,2025-04-25
+N0592,1157098332,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,2.4,2025-05-01
+N0593,1157098332,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,2.3,2025-06-07
+N0594,1157098332,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,1.8,2025-05-08
+N0595,1157098332,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,2.3,2025-02-16
+N0596,1157098332,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,2.3,2025-02-26
+N0597,1157098332,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,1.7,2025-03-31
+N0598,1157098332,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,2.7,2025-04-27
+N0599,1157098332,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,1.8,2025-06-17
+N0600,1157098332,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,2.4,2025-05-06
+N0601,1094232115,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.5,2025-03-18
+N0602,1094232115,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,2.7,2025-02-28
+N0603,1094232115,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,2.2,2025-04-26
+N0604,1094232115,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.1,2025-04-10
+N0605,1094232115,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.2,2025-05-31
+N0606,1094232115,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,1.8,2025-05-24
+N0607,1094232115,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,3.7,2025-03-16
+N0608,1094232115,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,3.1,2025-02-12
+N0609,1094232115,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,2.5,2025-03-26
+N0610,1094232115,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial (ausente),20,,2025-03-30
+N0611,1094232115,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,3.0,2025-06-08
+N0612,1094232115,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,2.9,2025-06-10
+N0613,1086627883,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,4.0,2025-02-24
+N0614,1086627883,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,4.3,2025-03-19
+N0615,1086627883,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito (ausente),30,,2025-04-25
+N0616,1086627883,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,4.2,2025-04-06
+N0617,1086627883,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.9,2025-05-19
+N0618,1086627883,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,4.7,2025-06-08
+N0619,1086627883,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,4.0,2025-02-19
+N0620,1086627883,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,4.0,2025-02-20
+N0621,1086627883,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito (ausente),30,,2025-04-06
+N0622,1086627883,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial (ausente),20,,2025-04-06
+N0623,1086627883,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,3.6,2025-05-08
+N0624,1086627883,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.7,2025-06-05
+N0625,1040198057,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,4.0,2025-02-10
+N0626,1040198057,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.8,2025-03-03
+N0627,1040198057,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito (ausente),30,,2025-04-01
+N0628,1040198057,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,2.9,2025-04-01
+N0629,1040198057,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,4.1,2025-05-22
+N0630,1040198057,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,3.6,2025-05-12
+N0631,1040198057,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,3.8,2025-03-04
+N0632,1040198057,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,4.2,2025-02-16
+N0633,1040198057,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,3.2,2025-04-07
+N0634,1040198057,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial (ausente),20,,2025-04-03
+N0635,1040198057,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,4.4,2025-05-10
+N0636,1040198057,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.3,2025-05-12
+N0637,1092602922,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,2.0,2025-02-19
+N0638,1092602922,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,2.4,2025-02-28
+N0639,1092602922,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,2.3,2025-04-11
+N0640,1092602922,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.3,2025-03-31
+N0641,1092602922,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,2.4,2025-06-19
+N0642,1092602922,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,2.1,2025-05-23
+N0643,1092602922,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,2.8,2025-02-20
+N0644,1092602922,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,2.2,2025-03-01
+N0645,1092602922,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,2.5,2025-05-01
+N0646,1092602922,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,2.5,2025-04-05
+N0647,1092602922,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,2.6,2025-05-23
+N0648,1092602922,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,2.3,2025-06-12
+N0649,1192837225,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,1.9,2025-02-12
+N0650,1192837225,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,2.7,2025-03-13
+N0651,1192837225,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.3,2025-04-19
+N0652,1192837225,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.4,2025-04-17
+N0653,1192837225,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,2.8,2025-05-20
+N0654,1192837225,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación (ausente),15,,2025-05-10
+N0655,1192837225,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,2.6,2025-02-20
+N0656,1192837225,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,2.7,2025-03-06
+N0657,1192837225,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,2.4,2025-03-27
+N0658,1192837225,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,2.1,2025-04-23
+N0659,1192837225,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,2.2,2025-06-11
+N0660,1192837225,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.3,2025-05-08
+N0661,1118254755,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,2.9,2025-03-20
+N0662,1118254755,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,2.7,2025-02-26
+N0663,1118254755,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,2.6,2025-04-22
+N0664,1118254755,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,1.7,2025-03-24
+N0665,1118254755,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,2.3,2025-05-16
+N0666,1118254755,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,2.7,2025-06-04
+N0667,1118254755,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,2.8,2025-02-28
+N0668,1118254755,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,2.2,2025-02-26
+N0669,1118254755,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,1.6,2025-03-27
+N0670,1118254755,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial (ausente),20,,2025-04-20
+N0671,1118254755,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,2.6,2025-05-10
+N0672,1118254755,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,2.8,2025-05-14
+N0673,1014555699,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.8,2025-02-20
+N0674,1014555699,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.0,2025-03-13
+N0675,1014555699,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.4,2025-04-05
+N0676,1014555699,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.3,2025-04-16
+N0677,1014555699,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.3,2025-05-23
+N0678,1014555699,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,3.7,2025-05-21
+N0679,1014555699,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito (ausente),35,,2025-03-16
+N0680,1014555699,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,3.2,2025-02-19
+N0681,1014555699,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,3.8,2025-04-05
+N0682,1014555699,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,3.9,2025-04-28
+N0683,1014555699,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,3.6,2025-06-11
+N0684,1014555699,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.7,2025-05-21
+N0685,1164637083,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,1.6,2025-02-25
+N0686,1164637083,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,2.1,2025-02-20
+N0687,1164637083,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,1.6,2025-03-29
+N0688,1164637083,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,1.4,2025-04-10
+N0689,1164637083,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,2.0,2025-06-17
+N0690,1164637083,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,1.7,2025-06-04
+N0691,1164637083,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,1.6,2025-02-18
+N0692,1164637083,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,1.3,2025-02-23
+N0693,1164637083,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,2.3,2025-04-07
+N0694,1164637083,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,1.8,2025-04-11
+N0695,1164637083,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,2.0,2025-06-02
+N0696,1164637083,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación (ausente),15,,2025-06-20
+N0697,1143236051,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.7,2025-03-03
+N0698,1143236051,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,4.6,2025-03-01
+N0699,1143236051,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,4.6,2025-03-27
+N0700,1143236051,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.9,2025-03-24
+N0701,1143236051,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,4.9,2025-06-13
+N0702,1143236051,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,4.9,2025-05-24
+N0703,1143236051,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,5.0,2025-02-16
+N0704,1143236051,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,4.7,2025-03-20
+N0705,1143236051,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,4.5,2025-03-31
+N0706,1143236051,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,4.1,2025-05-01
+N0707,1143236051,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,4.3,2025-06-19
+N0708,1143236051,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,4.8,2025-06-18
+N0709,1079954028,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.0,2025-02-19
+N0710,1079954028,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.1,2025-03-01
+N0711,1079954028,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.5,2025-03-26
+N0712,1079954028,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,2.7,2025-03-30
+N0713,1079954028,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.1,2025-06-20
+N0714,1079954028,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,3.6,2025-05-31
+N0715,1079954028,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,2.9,2025-03-03
+N0716,1079954028,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,2.8,2025-02-18
+N0717,1079954028,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,3.6,2025-04-11
+N0718,1079954028,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,3.4,2025-04-29
+N0719,1079954028,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final (ausente),35,,2025-05-08
+N0720,1079954028,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,2.8,2025-06-12
+N0721,1008162011,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito (ausente),35,,2025-02-23
+N0722,1008162011,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.8,2025-03-21
+N0723,1008162011,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,4.0,2025-04-24
+N0724,1008162011,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,4.7,2025-04-13
+N0725,1008162011,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.6,2025-06-05
+N0726,1008162011,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,4.1,2025-05-18
+N0727,1008162011,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,3.1,2025-03-08
+N0728,1008162011,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,4.0,2025-02-22
+N0729,1008162011,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,3.8,2025-05-02
+N0730,1008162011,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial (ausente),20,,2025-04-17
+N0731,1008162011,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final (ausente),35,,2025-06-02
+N0732,1008162011,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.8,2025-06-01
+N0733,1140691218,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.1,2025-02-25
+N0734,1140691218,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.8,2025-02-18
+N0735,1140691218,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.7,2025-05-01
+N0736,1140691218,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,3.9,2025-04-20
+N0737,1140691218,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.6,2025-05-26
+N0738,1140691218,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,3.8,2025-06-09
+N0739,1140691218,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,3.9,2025-03-05
+N0740,1140691218,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,3.5,2025-03-13
+N0741,1140691218,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito (ausente),30,,2025-04-23
+N0742,1140691218,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,3.6,2025-04-16
+N0743,1140691218,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,4.0,2025-05-08
+N0744,1140691218,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.6,2025-05-31
+N0745,1168413006,CEX,A,Comercio Internacional,Hernando Salcedo,1,Parcial escrito,35,3.3,2025-03-04
+N0746,1168413006,CEX,A,Comercio Internacional,Hernando Salcedo,1,Taller grupal,15,3.1,2025-02-10
+N0747,1168413006,CEX,A,Comercio Internacional,Hernando Salcedo,2,Parcial escrito,30,3.7,2025-04-13
+N0748,1168413006,CEX,A,Comercio Internacional,Hernando Salcedo,2,Proyecto parcial,20,2.8,2025-04-01
+N0749,1168413006,CEX,A,Comercio Internacional,Hernando Salcedo,3,Proyecto final,35,3.7,2025-06-20
+N0750,1168413006,CEX,A,Comercio Internacional,Hernando Salcedo,3,Sustentación,15,3.0,2025-06-01
+N0751,1168413006,CEX,A,Logística y Distribución,Hernando Salcedo,1,Parcial escrito,35,3.2,2025-03-21
+N0752,1168413006,CEX,A,Logística y Distribución,Hernando Salcedo,1,Taller grupal,15,3.3,2025-03-11
+N0753,1168413006,CEX,A,Logística y Distribución,Hernando Salcedo,2,Parcial escrito,30,3.1,2025-04-12
+N0754,1168413006,CEX,A,Logística y Distribución,Hernando Salcedo,2,Proyecto parcial,20,3.5,2025-03-25
+N0755,1168413006,CEX,A,Logística y Distribución,Hernando Salcedo,3,Proyecto final,35,3.2,2025-05-29
+N0756,1168413006,CEX,A,Logística y Distribución,Hernando Salcedo,3,Sustentación,15,3.1,2025-05-24
